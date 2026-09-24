@@ -125,7 +125,14 @@ Com essa dinâmica em grupo, os participantes podem interagir e discutir as situ
 
 Pensamos na seguinte dinâmica:
 
-1. Momento revelação: mostar o que a
+1. Momento revelação: mostar áudios reais e, em seguida, áudios alterados. Começar com humor para prender a atenção e virar a chave.
+2. Da brincadeira para o golpe: Entrar no contexto dos golpes.
+3. Golpe ou verdade?: Mostrar situações hipotéticas e pediríamos para dizerem se acham que é uma situação de golpe ou uma situação legítima. A dificuldade iria aumentando conforme a oficina acontece.
+4. Acha as pistas: Mostramos uma conversa falsa e pedimos para encontrarem pistas suspeitas.
+5. O que você faria?: Mudamos a pergunta, ao invés de perguntar se é falso ou verdadeiro, perguntamos que decisão eles tomariam.
+6. Propor uma regra para levar para casa: "PAROU -> CONFIRMOU -> PAGOU"
+7. Propor uma frase ou palavra de segurança secreta para eles terem com seus familiares, pois informações como nomes, datas de nascimento e endereços não bastam mais.
+8. Desafio final: Mostramos um golpe mais bem feito, com vários elementos, e comparamos a reação inicial com a reação final.
 
 ### Roteiro da Atividade
 
@@ -140,9 +147,9 @@ Pensamos na seguinte dinâmica:
 
 | Etapa | Duração | Atividade | Participação do público | Recursos |
 | --- | ---: | --- | --- | --- |
-| `<Etapa 1>` | `<min>` | `<O que acontece>` | `<O que o público faz>` | `<Recursos>` |
-| `<Etapa 2>` | `<min>` | `<O que acontece>` | `<O que o público faz>` | `<Recursos>` |
-| `<Etapa 3>` | `<min>` | `<O que acontece>` | `<O que o público faz>` | `<Recursos>` |
+| Se reunir em um local conhecido com antecedência | 30min | Dado que a atividade começa às 9h, nos encontramos às 8h30 em um lugar que todos conhecem, para evitar que pessoas se percam ou não achem a sala  | O público vai até o lugar para nos encontrar, e depois vamos para a sala definida | Nenhum |
+| Apresentação | 20min | Nos apresentamos e iniciamos a oficina pedindo para o público se apresentar e dizer quais experiências já tiveram com a IA | Se apresentam, dizem o que fazem e quais experiências já tiveram  | Sala com mesas e cadeiras |
+| Introdução a IA | 15min | Apresentamos a IA, como funciona, suas aplicações e todo o bem que ela pode fazer | O público responde se conhece, pode tirar dúvidas, fazer comentários | Sala com mesas, cadeiras, projetor e slides |
 
 **Duração total estimada:** `<tempo>`
 
@@ -209,23 +216,31 @@ Pensamos na seguinte dinâmica:
 | Entregável / Resultado | Tarefa | Responsável(is) | Prazo | Situação |
 | --- | --- | --- | --- | --- |
 
-| Pedido dos fascículos do Cert.br | Reunir informações de quais fascículos os grupos querem, e fechar o pedido deles junto ao setor de comunicação do Nic.br | Artur Dias | 25/09/2026 | Esperando números e modelos de livros que a turma tem interesse |
+| Pedido dos fascículos do Cert.br | Reunir informações de quais fascículos os grupos querem, e fechar o pedido deles junto ao setor de comunicação do Nic.br | Artur Dias | 25/09/2026 | Pedido feito, aguardando o envio por parte do Nic.br |
 
-| Sala para a oficina | Reservar sala com mesas, cadeiras, projetor, canetas, papel, lousa, etc... | `<Nome(s)>` | `<data>` | 01/10/2026 |
+| Sala para a oficina | Reservar sala com mesas, cadeiras, projetor, canetas, papel, lousa, etc... | Camila Parizoto | 01/10/2026 | Em desenvolvimento |
 
-| Coffee | Combinar data, quantidade e opções | Luana Oliveira | 01/10/2026 |  |
+| Coffee | Combinar data, quantidade e opções | Camila Parizoto | 01/10/2026 | Em desenvolvimento |
 
-| Marcar impressão dos chaveiros | Definir o modelo de chaveiros e combinar a impressão | Rayssa Aguiar | 01/10/2026 |  |
+| Marcar impressão dos chaveiros | Definir o modelo de chaveiros e combinar a impressão | Camila Parizoto | 01/10/2026 | Definindo qual o modelo de chaveiro escolhido, e em conversas com os responsáveis pela impressão |
 
-| Chaveiros prontos | Retirar os chaveiros combinados e impressos | Rayssa Aguiar | 09/10/2026 |  |
+| Chaveiros prontos | Retirar os chaveiros combinados e impressos | Rayssa Aguiar | 09/10/2026 | Depende da marcação da impressão |
 
-| Slides | Planjar e editar os slides com as informações importantes | Camila Parizoto | 11/10/2026 | Em desenvolvimento |
+| Slides | Planejar e editar os slides com as informações importantes | Todos | 11/10/2026 | Em desenvolvimento |
 
-| Apresentação ensaiada | Ensaiar, testar e alterar, se necessário, a apresentação/roteiro da oficina | Todos | 11/10/2026 | Em desenvolvimento |
+| Apresentação ensaiada | Ensaiar, testar e alterar, se necessário, a apresentação/roteiro da oficina | Todos | 11/10/2026 | Depende dos slides |
 
-| Divulgar a oficina | Enviar e-mail apresentando a oficina e chamando as pessoas | Tiago Gutiérrez | 09/10/2026 | Em desenvolvimento |
+| Desenvolver post de divulgação | Desenvolver um post chamativo para atrair participantes para a oficina via rede social | Luana Oliveira | 09/10/2026 | Em desenvolvimento |
 
-| Abrir o formulário de inscrições | Abrir o formulário para as 20 pessoas se inscreverem | Tiago Gutiérrez | 09/10/2026 | Em desenvolvimento |
+| Divulgar a oficina | Enviar e-mail apresentando a oficina e chamando as pessoas | Rayssa Aguiar | 09/10/2026 | Após ter o post criado |
+
+| Abrir o formulário de inscrições | Abrir o formulário para as 20 pessoas se inscreverem | Artur Dias | 09/10/2026 | Formulário está pronto, vai ser aberto após a divulgação |
+
+| Criar grupo de Whatsapp | Criar grupo no Whatsapp com aqueles que concordaram em ser envolvidos no grupo | Tiago Gutiérrez | 09/10/2026 | A ser criado após as inscrições |
+
+| Lembrete sobre a oficina | Lembrar as pessoas sobre a realização da oficina pelo Whatsapp ou e-mail | Tiago Gutiérrez | 12/10/2026 - 15/10/2026 | A ser enviado após as inscrições |
+
+| Formulário de feedback sobre a oficina | Disponibilizar um formulário para coletar feedbacks, críticas, opiniões e sugestões sobre a primeira oficina | Tiago Gutiérrez | 15/10/2026 | Em desenvolvimento |
 
 ### Dependências Críticas
 
@@ -332,9 +347,10 @@ Pensamos na seguinte dinâmica:
 
 | Risco / Desafio | Possível impacto | Estratégia |
 | --- | --- | --- |
-| `<Risco>` | `<O que pode acontecer?>` | `<Como prevenir, reduzir ou contornar?>` |
-| `<Risco>` | `<O que pode acontecer?>` | `<Como prevenir, reduzir ou contornar?>` |
-| `<Risco>` | `<O que pode acontecer?>` | `<Como prevenir, reduzir ou contornar?>` |
+| Não conseguir sala | Caso não seja possível usar uma sala | Podemos ir para um lugar calmo, que possamos passar as informações que gostaríamos e fazer as dinâmicas, sem a sala não seria possível mostrar slides, mas ainda poderíamos transmitir a mensagem que queremos |
+| Não conseguir coffee/chaveiros | Pode não dar certo o coffee ou chaveiros | Por serem "brindes", não são bloqueantes para a realização da oficina, podemos pensar em imprimir certificados para ficar como prêmio |
+| Não conseguir os fascículos | Pode ser que os fascículos não cheguem a tempo | Caso isso aconteça, podemos mostrar o .pdf online e compartilhar o link para o site do Cert.br com os fascículos |
+| Formulário não bater 20 pessoas | Pode ser que poucas pessoas se interessem após a primeira divulgação | Caso isso aconteça, podemos divulgar diretamente com pessoas que nós conhecemos, por e-mail, redes socias, etc. |
 
 ## Referências
 
@@ -352,5 +368,4 @@ Pensamos na seguinte dinâmica:
 > A referência é disponibilizada para contextualizar a prática de decompor um
 > projeto em entregáveis e unidades de trabalho gerenciáveis.
 
-- `<Referência do projeto 1>`
-- `<Referência do projeto 2>`
+- Palestra da Miriam Von Zuben, do Cert.br, no dia 10/09/2026 - e os materiais didáticos produzidos pelo Cert e apresentados por ela.
