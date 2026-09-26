@@ -14,7 +14,7 @@
 
 O projeto propõe uma oficina presencial de literacia digital e cibersegurança voltada ao público 60+, com foco na identificação e prevenção de golpes digitais potencializados pelo uso de Inteligência Artificial. A atividade combinará explicações breves com dinâmicas práticas nas quais os participantes deverão analisar situações, identificar sinais de alerta e decidir como agir diante de possíveis tentativas de fraude.
 Durante a oficina, serão apresentados exemplos de conteúdos reais e gerados por IA, incluindo áudios que simulam a voz de uma pessoa conhecida, com o objetivo de demonstrar que elementos como voz, imagem, nome ou outras informações pessoais, isoladamente, não são suficientes para confirmar a identidade de alguém no ambiente digital.
-A partir das dinâmicas, pretende-se construir junto aos participantes uma estratégia simples de verificação ( “Parou → Confirmou → Pago”) incentivando-os a interromper decisões impulsivas, confirmar pedidos por um segundo meio confiável e somente então realizar pagamentos ou compartilhar informações. Ao final, os participantes também serão incentivados a estabelecer estratégias adicionais de confirmação de identidade.
+A partir das dinâmicas, pretende-se construir junto aos participantes uma estratégia simples de verificação (“Parou → Confirmou → Pago”) incentivando-os a interromper decisões impulsivas, confirmar pedidos por um segundo meio confiável e somente então realizar pagamentos ou compartilhar informações. Ao final, os participantes também serão incentivados a estabelecer estratégias adicionais de confirmação de identidade.
 
 ## Problema e Contexto
 
@@ -56,7 +56,7 @@ Com essa dinâmica em grupo, os participantes podem interagir e discutir as situ
 
 Pensamos na seguinte dinâmica:
 
-1. Momento revelação: mostar áudios reais e, em seguida, áudios alterados. Começar com humor para prender a atenção e virar a chave.
+1. Momento revelação: mostrar áudios reais e, em seguida, áudios alterados. Começar com humor para prender a atenção e virar a chave.
 2. Da brincadeira para o golpe: Entrar no contexto dos golpes.
 3. Golpe ou verdade? Mostramos situações hipotéticas e pediremos para dizerem se acham que é uma situação de golpe ou uma situação legítima. A dificuldade irá aumentando conforme a oficina acontece.
 4. Acha as pistas: Mostramos uma conversa falsa e pedimos para encontrarem pistas suspeitas.
@@ -68,8 +68,8 @@ Pensamos na seguinte dinâmica:
 ### Roteiro da Atividade
 
 | Etapa | Duração | Atividade | Participação do público | Recursos |
-| --- | --- | --- | --- | --- |
-| Recepção | Se reunir em sala e em um local conhecido com antecedência | 30min | Dado que a atividade começa às 9h, nos encontramos às 8h30 em um lugar que todos conhecem, para evitar que pessoas se percam ou não achem a sala  | Chegada e acomodação | Sala |
+| --- | ---: | --- | --- | --- |
+| Recepção | 30min | Se reunir em sala e em um local conhecido com antecedência (encontro às 8h30 em um lugar que todos conhecem, para evitar que as pessoas se percam, já que a atividade começa às 9h) | Chegada e acomodação | Sala |
 | Apresentação | 15min | Apresentação do grupo e da proposta | Apresentação breve e compartilhamento de experiências  | Sala |
 | Introdução | 15min | Explicação rápida sobre a IA, comparação entre áudio real e gerado por IA e relacionar geração de mídia às fraudes | perguntas e comentários, tentam identificar diferenças e justificam respostas e discutem possíveis usos maliciosos  | Sala, projetor e slides |
 | Dinâmica - Golpe ou verdade? | 20 min | Situações de dificuldade crescente | Classificam e justificam as respostas em grupo | Plaquinhas com alternativas e slides |
@@ -79,7 +79,7 @@ Pensamos na seguinte dinâmica:
 | Desafio final | 15 min | Situação mais complexa reunindo os elementos anteriores, respostas e discussões mais rápidas | Analisam e decidem como agir | Slides e áudios |
 | Coffee Break | 20 min | Encerramento informal | Conversa e interação | Coffee |
 
-**Duração total estimada:** 2h de apresentação + 20min de coffee
+**Duração total estimada:** ~2h05 de atividade + 20min de coffee break (a recepção começa às 8h30, 30min antes do início)
 
 ## Planejamento da Primeira Aplicação
 
@@ -88,7 +88,7 @@ Pensamos na seguinte dinâmica:
 - **Público previsto:** 60+
 - **Contexto de aplicação:** Sala de aula da Unicamp
 - **Número estimado de participantes:** 20 pessoas
-- **Período previsto:** 16 de outubro, das 8:30 às 11:00
+- **Período previsto:** 16 de outubro, das 8:30 às 11:30
 
 **Estado atual da articulação:**
 Já enviamos e-mails para reservar uma sala para a apresentação, fazer a impressão 3D dos chaveiros, pedir a entrega dos panfletos e conseguir a verba para o coffee break e ainda falta terminar de fazer a nossa apresentação de slides e os formulários para a inscrição e o feedback.
@@ -156,14 +156,10 @@ Os elementos complementares como coffee break e chaveiros não serão considerad
 - Placas para que os grupos possam responder às perguntas das dinâmicas
 
 ### Testes Necessários
-
-- Tempo de duração da nossa apresentação de slides.
-- O que será testado e, quando pertinente, como:
-
 - Teste piloto completo da oficina: executar previamente o roteiro para verificar duração total, transições e clareza das instruções
 - Áudios: verificar volume, inteligibilidade e reprodução no equipamento que será utilizado.
 - Dinâmicas: verificar se as situações possuem dificuldades adequadas e se as instruções permitem compreender claramente o que deve ser feito
-- Slides: verificar legibilidade à distância, tamanho das fontes e contraste
+- Slides: verificar legibilidade à distância, tamanho das fontes, contraste e tempo de duração da apresentação para garantir que cabe no roteiro previsto.
 - Equipamentos: testar notebook, projetor, sistema de áudio e adaptadores
 - Funcionamento offline: confirmar que slides, áudios, e demais materiais podem ser utilizados sem internet
 - Formulários: testar acesso, envio e armazenamento das respostas
@@ -199,9 +195,9 @@ Ao final, será disponibilizado também um formulário de feedback sobre a exper
 | Formulário não bater 20 pessoas | Pode ser que poucas pessoas se interessem após a primeira divulgação | Caso isso aconteça, podemos divulgar diretamente com pessoas que nós conhecemos, por e-mail, redes sociais, etc. |
 | Falha na reprodução dos áudios | Compromete o momento da plataforma de IA | Testar previamente e manter os arquivos offline em mais de um dispositivo |
 | Falta de internet | Apresentação ficará indisponível | Materiais offline e alternativa impressa |
-| Dinâmicas demorarem mais do que o previsto | Etapas finais podem ser prejudicas | Teste piloto e definição prévia de etapas a serem reduzidas + discussão de estratégias |
+| Dinâmicas demorarem mais do que o previsto | Etapas finais podem ser prejudicadas | Teste piloto e definição prévia de etapas a serem reduzidas + discussão de estratégias |
 | Dificuldade de leitura e/ou escuta | parte do público pode não acompanhar os materiais | Fontes grandes, bom contraste, leitura oral e alta (talvez microfone), além de espalhamento do grupo pela sala para acompanhamento mais focado |
-| Exemplo gerar constrangimento ou medo | Pode reduzir participação | Evitar exposição individual e deixar claro o caráter educativo e simulado das situações
+| Exemplo gerar constrangimento ou medo | Pode reduzir participação | Evitar exposição individual e deixar claro o caráter educativo e simulado das situações |
 
 ## Referências
 
