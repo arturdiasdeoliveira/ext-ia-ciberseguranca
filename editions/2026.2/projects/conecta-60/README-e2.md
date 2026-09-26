@@ -174,15 +174,15 @@ Os elementos complementares como coffee break e chaveiros não serão considerad
 | Objetivo | Indicador / Evidência |
 | --- | --- |
 | Noção sobre IA | Entender minimamente o que é IA e o que ela pode fazer (de bom e de ruim)  |
-| Conhecimento de que nunca deve ser realizado pagamentos sem confirmações prévias | O grupo alvo não realizaria pagamentos online no primeiro momento em que lhes for pedido. |
-| Identificar pistas suspeitas de golpes e fraudes digitais | O grupo alvo aprender a perceber quando um texto está escrito de forma em que a pessoa que se supõe que é não é o jeito que ela escreve na internet. |
-| Diferenciar golpes de situações reais | O grupo alvo ficar atento quando a mensagem citar algum evento incomum ou atípico de se ocorrer. |
+| Conhecimento de que nunca devem ser realizados pagamentos sem confirmações prévias | O grupo alvo não realizaria pagamentos online no primeiro momento em que lhes for pedido. |
+| Identificar pistas suspeitas de golpes e fraudes digitais | O grupo alvo aprende a perceber quando um texto está escrito de forma em que a pessoa que se supõe que é não é o jeito que ela escreve na internet. |
+| Diferenciar golpes de situações reais | O grupo alvo fica atento quando a mensagem citar algum evento incomum ou atípico de se ocorrer. |
 | Ajudá-los a entender que, hoje, nomes, fotos e áudios pré-gravados não são mais suficientes para legitimar um pedido  | O grupo alvo apenas realizar pagamentos após conversar com a pessoa na vida real. |
-| Estabelecer uma regra principal para realizar transações em dinheiro | O grupo principal cria um código, ou método de segurança que não dependa de informações pessoais facilmente encontradas na internet, para garantir estar conversando com um familiar |
+| Estabelecer uma regra principal para realizar transações em dinheiro | O grupo alvo cria um código, ou método de segurança que não dependa de informações pessoais facilmente encontradas na internet, para garantir estar conversando com um familiar |
 
 ### Coleta de Evidências e Feedback
 
-A coleta de evidências ocorrerá ao longo da própria oficina e ao final da atividade. Nas primeiras situações apresentadas, serão registradas as decisões e justificativas dos participantes antes da apresentação das principais estratégias de verificação. Vamos anotar e essas respostas funcionarão como referência inicial.
+A coleta de evidências ocorrerá ao longo da própria oficina e ao final da atividade. Nas primeiras situações apresentadas, serão registradas as decisões e justificativas dos participantes antes da apresentação das principais estratégias de verificação. Vamos anotar essas respostas, que funcionarão como referência inicial.
 Durante as dinâmicas o grupo observará quais sinais são identificados, quais justificativas são utilizadas e quais ações os participantes propõem diante das situações apresentadas.
 No desafio final, será apresentada uma situação mais complexa, construída para exigir a aplicação das respostas observadas no início da atividade, verificando principalmente se os participantes passaram a utilizar estratégias de confirmação antes de agir.
 Ao final, será disponibilizado também um formulário de feedback sobre a experiência, no qual os participantes poderão avaliar as dinâmicas e fornecer críticas e sugestões. Esse formulário será utilizado principalmente para aperfeiçoar a segunda aplicação da oficina, enquanto a avaliação dos objetivos será baseada prioritariamente nas decisões e estratégias observadas durante as atividades.
