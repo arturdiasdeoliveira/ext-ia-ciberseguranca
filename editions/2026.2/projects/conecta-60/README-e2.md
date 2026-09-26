@@ -1,25 +1,6 @@
 # Inteligência Artificial Sem Mistério, Internet Sem Cilada
 
-> Revise o título somente se a proposta tiver evoluído desde a E1.
->
-> A E2 representa uma evolução da proposta inicial. Revise as seções já existentes
-> para que elas representem o estado atual do projeto e complete as novas seções de
-> planejamento.
->
-> Não é necessário alterar uma seção apenas para que ela fique diferente da E1.
-> Quando uma decisão continuar válida, ela pode ser mantida.
->
-> **Antes de submeter a E2:** remova todas as instruções apresentadas em
-> blockquotes (`>`), incluindo esta.
-
 ## Equipe
-
-> Revise a composição da equipe e atualize esta seção caso tenha ocorrido alguma
-> alteração desde a E1.
->
-> **A E2 é a última entrega em que serão permitidas alterações na composição dos
-> grupos. A partir desta entrega, a equipe deverá permanecer a mesma até o final
-> da disciplina.**
 
 | Nome | RA | Curso |
 | --- | --- | --- |
@@ -31,341 +12,196 @@
 
 ## Proposta
 
-> **Revisão da E1.**
->
-> Atualize a síntese da proposta para representar o projeto como ele existe
-> atualmente. Uma pessoa que leia apenas esta seção deve compreender o que será
-> realizado, com qual público e com qual propósito.
-
-Inicialmente, planejamos mostrar as capacidades da IA nos dias atuais, como ela consegue gerar áudios, mídias e como alguns desses materiais podem ser maliciosos e criados para enganar as pessoas (como áudios ou vídeos se passando por um filho para pedir dinheiro, por exemplo). Posteriormente será realizada uma parte de conscientização e discussão dos temas e situações abordadas, além da apresentação e entrega dos materiais de apoio com algumas dicas de prevenção, cuidados e dicas do que fazer caso a pessoa perceba que realmente caiu em um golpe. A ideia é estimular a participação ativa dos participantes e ajudá-los a saberem prevenir, identificar golpes ou possíveis ameaças, ter um olhar mais atento para as situações antes de tomarem qualquer decisão e saberem o que fazer diante de tais situações suspeitas. 
-
-A atividade proposta está na fronteira entre ambos os temas. O foco principal é a cibersegurança, com objetivo de orientar as pessoas sobre como se proteger no ambiente digital. Para isso, serão apresentados exemplos de golpes, fraudes e outras situações de risco que envolvem o uso de IA, mostrando como essas tecnologias podem ser utilizadas para tornar esses ataques mais sofisticados e difíceis de identificar.
+O projeto propõe uma oficina presencial de literacia digital e cibersegurança voltada ao público 60+, com foco na identificação e prevenção de golpes digitais potencializados pelo uso de Inteligência Artificial. A atividade combinará explicações breves com dinâmicas práticas nas quais os participantes deverão analisar situações, identificar sinais de alerta e decidir como agir diante de possíveis tentativas de fraude.
+Durante a oficina, serão apresentados exemplos de conteúdos reais e gerados por IA, incluindo áudios que simulam a voz de uma pessoa conhecida, com o objetivo de demonstrar que elementos como voz, imagem, nome ou outras informações pessoais, isoladamente, não são suficientes para confirmar a identidade de alguém no ambiente digital.
+A partir das dinâmicas, pretende-se construir junto aos participantes uma estratégia simples de verificação ( “Parou → Confirmou → Pago”) incentivando-os a interromper decisões impulsivas, confirmar pedidos por um segundo meio confiável e somente então realizar pagamentos ou compartilhar informações. Ao final, os participantes também serão incentivados a estabelecer estratégias adicionais de confirmação de identidade.
 
 ## Problema e Contexto
 
-> **Revisão da E1.**
->
-> Incorpore novas referências, informações ou aprendizados que tenham contribuído
-> para compreender melhor o problema desde a primeira entrega.
->
-> Verifique se a relevância do problema está relacionada especificamente ao público
-> e ao contexto escolhidos, evitando justificativas excessivamente genéricas.
-
-Os golpes virtuais têm crescido muito nos últimos tempos, principalmente com a evolução das ferramentas de IA. Criminosos têm usado deep fakes para se passarem por outras pessoas e enganarem as vítimas, ou, às vezes, se passarem pela própria vítima. Sabemos que muitas pessoas, principalmente o público 60+, caem nos golpes por não saberem identificar que é uma situação suspeita, não saberem como se prevenir e nem quais decisões tomar nesses momentos.
-
-O público 60+ é um alvo bem comum para esses tipos de golpe, uma vez que eles geralmente possuem bens, fazem parte de uma geração que não teve tanto contato com tanta tecnologia e, devido a isso, hoje em dia apresentam certa dificuldade em seu uso e acabam acreditando em muitas das coisas que vêem na internet, sejam elas propagandas enganosas ou criminosos se passando por algum familiar, por exemplo. A maioria dos integrantes do grupo possuem algum familiar ou pessoa próxima, que também está na faixa etária do público alvo escolhido, que já caiu em golpes ou situações semelhantes.
-
-O tema é de relevância tanto individual quanto social, pois têm como objetivo conscientizar as pessoas sobre os riscos associados ao ambiente digital e ajudá-las a identificar golpes e fraudes que podem utilizar ferramentas de IA, reduzindo as chances da pessoa ser enganada. Ademais, a IA está tornando alguns golpes cada vez mais sofisticados, logo, conscientizar a população contribui para aumentar a segurança digital de uma forma geral.
+A evolução recente das ferramentas de Inteligência Artificial generativa tornou mais acessível a produção de conteúdos sintéticos, incluindo textos, imagens, vídeos e áudios capazes de imitar características de pessoas reais. No contexto de fraudes digitais, esses recursos podem ser utilizados para tornar tentativas de engenharia social mais convincentes, por exemplo por meio da simulação da voz ou da identidade de familiares.
+Para o público 60+, o problema é especialmente relevante diante da rápida transformação dos mecanismos utilizados em fraudes digitais. Estratégias de identificação baseadas apenas em características que anteriormente poderiam transmitir confiança (como reconhecer uma voz, fotografia, nome ou informações pessoais) podem se tornar insuficientes diante de conteúdos manipulados ou gerados por IA.
+Dessa forma, o projeto não busca apenas apresentar exemplos de golpes, mas desenvolver estratégias práticas de verificação que continuem úteis mesmo quando uma tentativa de fraude aparenta ser legítima. O foco passa da pergunta “consigo perceber que isso é falso?” para “consigo tomar uma decisão segura mesmo quando não tenho certeza se é falso ou verdadeiro?”.
 
 ## Público
 
-> **Revisão da E1.**
->
-> Atualize esta seção caso o grupo tenha aprendido mais sobre o público,
-> estabelecido contato com instituições ou identificado necessidades que não haviam
-> sido consideradas inicialmente.
->
-> Diferencie, quando pertinente, características do público fundamentadas em
-> referências ou experiências das hipóteses que o grupo ainda pretende verificar
-> durante as aplicações.
-
-Escolhemos o público 60+. Esse público pode apresentar menor familiaridade com mecanismos recentes de fraude digital e com novas formas de golpe que utilizam tecnologias como Inteligência Artificial. Por isso, consideramos importante desenvolver estratégias de verificação que possam ajudá-los a analisar situações suspeitas e tomar decisões de forma mais segura.
-
-Conhecemos pessoas desse público (familiares) que já foram vítimas dos golpes virtuais, por isso queríamos ajudar a conscientizar outras pessoas para que elas consigam se proteger e não serem vítimas desse tipo de golpe. É um tema relevante e de interesse para este público pois cada golpe traz um prejuízo financeiro, emocional, legal, entre outros.
-
-Esse público pode apresentar maior vulnerabilidade a determinados tipos de fraude digital.
+O público-alvo da atividade são pessoas 60+. A escolha está relacionada à necessidade de desenvolver estratégias de segurança que acompanhem formas recentes de fraude digital, incluindo aquelas potencializadas por ferramentas de Inteligência Artificial.
+A proposta não pressupõe um mesmo nível de familiaridade tecnológica entre todos os participantes. Durante a primeira aplicação, o grupo pretende observar também quais experiências, dificuldades e estratégias de proteção já fazem parte do cotidiano desse público.
+A escolha também foi motivada por experiências próximas aos integrantes do grupo, que conhecem familiares ou outras pessoas dessa faixa etária que já vivenciaram golpes ou tentativas de fraude digital. Essas experiências contribuíram para a escolha do problema, mas não foram utilizadas como generalização sobre todo o público 60+.
 
 ## Objetivos
 
 ### Objetivo Geral
 
-> Revise o objetivo geral caso a proposta tenha evoluído desde a E1.
-
-Ensinar as pessoas a analisarem a situação, em casos de situações suspeitas e possíveis golpes e fraudes, e tomarem uma decisão segura, mesmo quando o golpe parece real. Comparar a reação inicial com a reação final deles.
+Desenvolver, junto ao público 60+, estratégias práticas para analisar situações potencialmente fraudulentas no ambiente digital e tomar decisões mais seguras diante de tentativas de golpe, inclusive quando forem utilizados conteúdos produzidos ou manipulados por Inteligência Artificial.
 
 ### Objetivos Específicos
 
-> Verifique se os objetivos específicos descrevem resultados que poderão ser
-> observados ou investigados durante as aplicações.
-
-- Conhecimento de que nunca deve ser realizado pagamentos sem confirmações prévias. 
-- Identificar pistas suspeitas de golpes e fraudes digitais. 
-- Diferenciar golpes de situações reais.
-- Ajudá-los a entender que, hoje, nomes, fotos e áudios pré-gravados não são mais suficientes para legitimar um pedido.
-- Estabelecer uma regra principal para "levarem para casa": parar, pensar, confirmar por outros meios (ligar para o número salvo; conversar pessoalmente, se possível, perguntar algo específico e íntimo que só a pessoa saiba; etc) e, só então, realizar o pedido.
+- Reconhecer sinais de alerta presentes em situações de possíveis golpes e fraudes digitais.
+- Compreender que voz, imagem, nome e outras informações pessoais, isoladamente, não são suficientes para confirmar a identidade de alguém.
+- Aplicar estratégias de verificação antes de realizar pagamentos, fornecer informações ou atender solicitações suspeitas.
+- Utilizar a estratégia “Parou → Confirmou → Pagou” como procedimento diante de solicitações financeiras ou situações de incerteza.
+- Conhecer formas alternativas de confirmação de identidade, como contato por um segundo canal confiável e o estabelecimento prévio de uma palavra ou frase de segurança com familiares.
+- Comparar diferentes possibilidades de ação diante de situações ambíguas e justificar qual decisão oferece maior segurança.
 
 ## Experiência
 
-> Na E1, esta seção apresentava uma concepção inicial. Na E2, descreva de forma
-> mais concreta a experiência que o grupo pretende proporcionar.
->
-> Explique o formato geral da atividade e como os participantes irão interagir com
-> ela. Procure deixar clara a relação entre as escolhas realizadas, as
-> características do público e os objetivos do projeto.
->
-> Considere especialmente o papel ativo dos participantes: decisões, discussões,
-> experimentação, resolução de problemas, produção, colaboração ou outras formas
-> de participação pertinentes à proposta.
-
 Pretendemos mostrar um áudio real, e um áudio gerado por IA, a ideia é mostrar como é fácil gerar mídias falsas hoje com a evolução das IAs. Uma das ideias é criar um áudio com a voz de um dos monitores, de modo que eles consigam comparar com a voz da pessoa no dia e de um áudio em tempo real.
-
 Mostrar que, se foi fácil gerar um áudio alternativo com uma voz real, também seria fácil gerar áudios e outras mídias de pessoas conhecidas com o intuito de aplicar golpes, por isso queremos mostrar que não é possível confiar mais só nas fotos e áudios.
-
 A ideia é que eles vejam o quão poderosas são as ferramentas de IA hoje para o contexto dos golpes e se perguntem: então, o que devemos fazer?
-
 Cada um deles vai fazer as suas próprias suposições sobre o que é suspeito e o que não é, o que parece real e o que não parece, quais ações deveriam tomar em cada situação.
-
 É possível que eles façam suposições erradas. Poderão achar que uma situação hipotética de golpe seria real, ou o contrário; podem não encontrar pistas suspeitas, ou o contrário; etc.
-
 Eles precisarão sempre se perguntar o que parece real, o que parece suspeito, se é uma decisão inteligente ir por um caminho X, ou é melhor ir por um caminho Y.
-
 Dessa forma, estamos promovendo uma oficina dinâmica, que não se limita somente a soltar informações para os participantes para que eles entendam sozinhos. Estamos promovendo uma atividade que os estimula a pensar, terem ideias (que podem estar erradas, mas também podem estar certas), fazer paralelos com situações que eles já vivenciaram, trocar experiências com outros participantes, etc. Tudo isso, com exemplos do mundo real, para que tudo isso seja algo palpável, que eles consigam enxergar acontecendo no seu dia a dia.
-
 Com essa dinâmica em grupo, os participantes podem interagir e discutir as situações detalhadamente, apresentando seus pontos de vista e compartilhando suas experiências a respeito. Os participantes terão a possibilidade de expor e compartilhar situações vivenciadas, de modo a contribuir para as respostas em grupo de cada situação apresentada.
 
 Pensamos na seguinte dinâmica:
 
 1. Momento revelação: mostar áudios reais e, em seguida, áudios alterados. Começar com humor para prender a atenção e virar a chave.
 2. Da brincadeira para o golpe: Entrar no contexto dos golpes.
-3. Golpe ou verdade?: Mostrar situações hipotéticas e pediríamos para dizerem se acham que é uma situação de golpe ou uma situação legítima. A dificuldade iria aumentando conforme a oficina acontece.
+3. Golpe ou verdade? Mostramos situações hipotéticas e pediremos para dizerem se acham que é uma situação de golpe ou uma situação legítima. A dificuldade irá aumentando conforme a oficina acontece.
 4. Acha as pistas: Mostramos uma conversa falsa e pedimos para encontrarem pistas suspeitas.
 5. O que você faria?: Mudamos a pergunta, ao invés de perguntar se é falso ou verdadeiro, perguntamos que decisão eles tomariam.
 6. Propor uma regra para levar para casa: "PAROU -> CONFIRMOU -> PAGOU"
 7. Propor uma frase ou palavra de segurança secreta para eles terem com seus familiares, pois informações como nomes, datas de nascimento e endereços não bastam mais.
-8. Desafio final: Mostramos um golpe mais bem feito, com vários elementos, e comparamos a reação inicial com a reação final.
+8. Desafio final: Mostramos um golpe bem feito, com vários elementos, e comparamos a reação inicial com a reação final.
 
 ### Roteiro da Atividade
 
-> Transforme a experiência proposta em uma sequência que possa ser efetivamente
-> executada.
->
-> Os tempos ainda são estimativas e poderão ser ajustados após testes e após a
-> primeira aplicação.
->
-> Considere a experiência do participante desde sua chegada até o encerramento da
-> atividade.
-
 | Etapa | Duração | Atividade | Participação do público | Recursos |
-| --- | ---: | --- | --- | --- |
-| Se reunir em um local conhecido com antecedência | 30min | Dado que a atividade começa às 9h, nos encontramos às 8h30 em um lugar que todos conhecem, para evitar que pessoas se percam ou não achem a sala  | O público vai até o lugar para nos encontrar, e depois vamos para a sala definida | Nenhum |
-| Apresentação | 20min | Nos apresentamos e iniciamos a oficina pedindo para o público se apresentar e dizer quais experiências já tiveram com a IA | Se apresentam, dizem o que fazem e quais experiências já tiveram  | Sala com mesas e cadeiras |
-| Introdução a IA | 15min | Apresentamos a IA, como funciona, suas aplicações e todo o bem que ela pode fazer | O público responde se conhece, pode tirar dúvidas, fazer comentários | Sala com mesas, cadeiras, projetor e slides |
+| --- | --- | --- | --- | --- |
+| Recepção | Se reunir em sala e em um local conhecido com antecedência | 30min | Dado que a atividade começa às 9h, nos encontramos às 8h30 em um lugar que todos conhecem, para evitar que pessoas se percam ou não achem a sala  | Chegada e acomodação | Sala |
+| Apresentação | 15min | Apresentação do grupo e da proposta | Apresentação breve e compartilhamento de experiências  | Sala |
+| Introdução | 15min | Explicação rápida sobre a IA, comparação entre áudio real e gerado por IA e relacionar geração de mídia às fraudes | perguntas e comentários, tentam identificar diferenças e justificam respostas e discutem possíveis usos maliciosos  | Sala, projetor e slides |
+| Dinâmica - Golpe ou verdade? | 20 min | Situações de dificuldade crescente | Classificam e justificam as respostas em grupo | Plaquinhas com alternativas e slides |
+| Dinâmica - Ache as pistas  | 15 min | Análise de conversa simulada | Identificam elementos suspeitos | Conversa projetada ou impressa |
+| Dinâmica - O que você faria? | 20 min | Situações em que precisam escolher uma das alternativas de ação | Decidem e justificam como agiriam | Slides e placas |
+| Prevenção - estratégias de proteção | 25min | Construção do “Parou → Confirmou → Pagou” | Propõem formas seguras de confirmação, incluindo palavras de segurança | Slides e lousa |
+| Desafio final | 15 min | Situação mais complexa reunindo os elementos anteriores, respostas e discussões mais rápidas | Analisam e decidem como agir | Slides e áudios |
+| Coffee Break | 20 min | Encerramento informal | Conversa e interação | Coffee |
 
-**Duração total estimada:** `<tempo>`
+**Duração total estimada:** 2h de apresentação + 20min de coffee
 
 ## Planejamento da Primeira Aplicação
 
 ### Articulação para a Primeira Aplicação
 
-> Descreva o cenário atualmente considerado para a primeira aplicação.
->
-> Não é necessário que local, data ou parceria já estejam confirmados na E2.
-> Registre o que já foi encaminhado, as hipóteses atualmente consideradas e o que
-> ainda precisa ser definido.
->
-> **Não inclua dados pessoais de contatos**, como nomes, telefones ou endereços
-> de e-mail. Quando pertinente, mencione apenas a instituição, programa ou tipo
-> de parceiro envolvido.
+- **Público previsto:** 60+
+- **Contexto de aplicação:** Sala de aula da Unicamp
+- **Número estimado de participantes:** 20 pessoas
+- **Período previsto:** 16 de outubro, das 8:30 às 11:00
 
-- **Público previsto:** `<público que o grupo pretende atender>`
-- **Contexto de aplicação:** `<escola, instituição, espaço da Unicamp, comunidade etc.>`
-- **Número estimado de participantes:** `<estimativa ou faixa>`
-- **Período previsto:** `<data, semana ou período aproximado, se disponível>`
-
-**Estado atual da articulação:**  
-`<Explique brevemente o que já está encaminhado, o que ainda está sendo negociado e quais definições permanecem em aberto.>`
+**Estado atual da articulação:**
+Já enviamos e-mails para reservar uma sala para a apresentação, fazer a impressão 3D dos chaveiros, pedir a entrega dos panfletos e conseguir a verba para o coffee break e ainda falta terminar de fazer a nossa apresentação de slides e os formulários para a inscrição e o feedback.
 
 ### Alternativas e Contingências
 
-> Identifique alternativas para aspectos da aplicação que ainda apresentam
-> incerteza.
->
-> Por exemplo: se a atividade depende de uma escola que ainda não confirmou a
-> participação, existe outra possibilidade de público ou local? Se determinado
-> equipamento não estiver disponível, a atividade poderá ser adaptada?
-
-`<Descreva aqui as principais alternativas ou contingências já consideradas.>`
+Caso a sala inicialmente planejada não esteja disponível, será buscado outro espaço da Unicamp adequado à realização das dinâmicas (pensamos na Praça da Paz). O grupo manterá versões previamente preparadas dos materiais que possam ser utilizadas offline e, quando possível, versões impressas das situações utilizadas. Logo, também está preparada para indisponibilidade de energia, internet ou projetor.
+Caso o número de inscrições do público inicialmente contatado (grupo de extensão 60+ que um dos integrantes trabalha) seja inferior ao esperado, a divulgação será ampliada por meio de canais institucionais e das redes de contato dos integrantes. Como o público inicial será de 20 pessoas, consideramos não ser um problema.
+Os elementos complementares como coffee break e chaveiros não serão considerados como requisitos para a realização da oficina. Apesar disso, se tivermos problema com o coffee podemos substituir com a compra de bolo e café na padaria e contactar os professores sobre o problema.
 
 ## Plano de Desenvolvimento
 
-> Nesta etapa, o grupo deverá decompor a proposta em partes menores que possam
-> ser planejadas, desenvolvidas, testadas e acompanhadas.
->
-> Em gerenciamento de projetos de engenharia, uma abordagem comum para essa
-> decomposição é a **Work Breakdown Structure (WBS)**, ou **Estrutura Analítica
-> do Projeto (EAP)**. A ideia é partir do resultado que se deseja entregar e
-> decompô-lo progressivamente em componentes menores e gerenciáveis.
->
-> **Não é necessário elaborar uma EAP formal nem utilizar software específico de
-> gerenciamento de projetos.** Utilize o princípio da decomposição para identificar
-> claramente o que precisa estar pronto para que a primeira aplicação possa
-> acontecer.
->
-> Pense primeiro nos **entregáveis ou resultados necessários** e, a partir deles,
-> identifique as tarefas necessárias para produzi-los.
->
-> Exemplos de entregáveis podem incluir: dinâmica pronta, apresentação,
-> material impresso, instrumento de avaliação, divulgação, espaço preparado ou
-> configuração técnica testada.
->
-> Ao estabelecer os prazos, considere também as **dependências** entre as
-> atividades. Uma dinâmica precisa ser desenvolvida antes de ser testada; um
-> material precisa estar revisado antes de ser impresso; e resultados de testes
-> podem exigir alterações antes da aplicação.
-
 | Entregável / Resultado | Tarefa | Responsável(is) | Prazo | Situação |
 | --- | --- | --- | --- | --- |
-
 | Pedido dos fascículos do Cert.br | Reunir informações de quais fascículos os grupos querem, e fechar o pedido deles junto ao setor de comunicação do Nic.br | Artur Dias | 25/09/2026 | Pedido feito, aguardando o envio por parte do Nic.br |
-
 | Sala para a oficina | Reservar sala com mesas, cadeiras, projetor, canetas, papel, lousa, etc... | Camila Parizoto | 01/10/2026 | Em desenvolvimento |
-
 | Coffee | Combinar data, quantidade e opções | Camila Parizoto | 01/10/2026 | Em desenvolvimento |
-
 | Marcar impressão dos chaveiros | Definir o modelo de chaveiros e combinar a impressão | Camila Parizoto | 01/10/2026 | Definindo qual o modelo de chaveiro escolhido, e em conversas com os responsáveis pela impressão |
-
 | Chaveiros prontos | Retirar os chaveiros combinados e impressos | Rayssa Aguiar | 09/10/2026 | Depende da marcação da impressão |
-
 | Slides | Planejar e editar os slides com as informações importantes | Todos | 11/10/2026 | Em desenvolvimento |
-
 | Apresentação ensaiada | Ensaiar, testar e alterar, se necessário, a apresentação/roteiro da oficina | Todos | 11/10/2026 | Depende dos slides |
-
 | Desenvolver post de divulgação | Desenvolver um post chamativo para atrair participantes para a oficina via rede social | Luana Oliveira | 09/10/2026 | Em desenvolvimento |
-
 | Divulgar a oficina | Enviar e-mail apresentando a oficina e chamando as pessoas | Rayssa Aguiar | 09/10/2026 | Após ter o post criado |
-
 | Abrir o formulário de inscrições | Abrir o formulário para as 20 pessoas se inscreverem | Artur Dias | 09/10/2026 | Formulário está pronto, vai ser aberto após a divulgação |
-
 | Criar grupo de Whatsapp | Criar grupo no Whatsapp com aqueles que concordaram em ser envolvidos no grupo | Tiago Gutiérrez | 09/10/2026 | A ser criado após as inscrições |
-
 | Lembrete sobre a oficina | Lembrar as pessoas sobre a realização da oficina pelo Whatsapp ou e-mail | Tiago Gutiérrez | 12/10/2026 - 15/10/2026 | A ser enviado após as inscrições |
-
 | Formulário de feedback sobre a oficina | Disponibilizar um formulário para coletar feedbacks, críticas, opiniões e sugestões sobre a primeira oficina | Tiago Gutiérrez | 15/10/2026 | Em desenvolvimento |
 
 ### Dependências Críticas
 
-> Destaque apenas as dependências que podem determinar ou bloquear o andamento
-> do projeto.
->
-> Exemplos: confirmação do público antes da divulgação; finalização do jogo antes
-> do teste; definição do local antes de verificar os equipamentos disponíveis.
-
-- `<Dependência 1>`
-- `<Dependência 2>`
+- Confirmação do local antes da validação final dos equipamentos necessários para a oficina.
+- Finalização das dinâmicas e dos materiais antes da realização do teste piloto.
+- Realização do teste piloto antes dos ajustes finais de conteúdo, instruções e duração.
+- Finalização do material de divulgação e definição do local antes da divulgação ampla da oficina.
+- Obtenção das inscrições antes da criação do canal de comunicação e envio dos lembretes aos participantes.
 
 ## Materiais e Recursos
 
 ### Materiais a Desenvolver
 
-> Liste os materiais que precisam ser produzidos pelo grupo. Quando já existirem,
-> inclua links ou caminhos para os arquivos correspondentes.
->
-> Sempre que possível, mantenha os materiais produzidos dentro da pasta do
-> projeto. Materiais mantidos em plataformas externas podem ser referenciados
-> por links.
-
-- `<Material>`
-- `<Material>`
-- `<Material>`
+- Apresentação de slides
+- Áudios reais e áudios sintetizados (plataforma de IA)
+- Situações da dinâmica “Golpe ou verdade?”
+- Conversa simulada da dinâmica “Ache as pistas”
+- Cenários da dinâmica “O que você faria?”
+- Situação utilizada no desafio final
+- Placas ou cartões de resposta utilizados pelos grupos
+- Material visual da estratégia “Parou → Confirmou → Pagou”
+- Formulário de inscrição
+- Instrumento de coleta das respostas/evidências da atividade
+- Formulário de feedback
+- Material de divulgação
 
 ### Recursos para a Aplicação
 
-> Considere equipamentos, infraestrutura, software, conexão à Internet, impressão,
-> acessibilidade e outros recursos necessários no dia da atividade.
-
-- `<Recurso>`
-- `<Recurso>`
-- `<Recurso>`
+- Notebook para a apresentação
+- Sala
+- Projetor + sistema de áudio
+- Conexão à internet
+- Energia elétrica na sala
+- Panfletos (os livrinhos que a gente pediu por e-mail)
+- Cópia de todos os áudios e slides
+- Materiais impressos de contingência
+- Canetas
+- Placas para que os grupos possam responder às perguntas das dinâmicas
 
 ### Testes Necessários
 
-> Identifique o que precisa ser testado antes da primeira aplicação.
->
-> Considere especialmente elementos cuja falha possa comprometer a experiência:
-> áudio, vídeo, Internet, ferramentas externas, formulários, equipamentos,
-> materiais impressos, duração das dinâmicas e instruções fornecidas ao público.
->
-> Testar uma atividade também pode revelar problemas de compreensão, ritmo ou
-> duração que não aparecem durante seu planejamento.
+- Tempo de duração da nossa apresentação de slides.
+- O que será testado e, quando pertinente, como:
 
-- `<O que será testado e, quando pertinente, como>`
-- `<O que será testado e, quando pertinente, como>`
+- Teste piloto completo da oficina: executar previamente o roteiro para verificar duração total, transições e clareza das instruções
+- Áudios: verificar volume, inteligibilidade e reprodução no equipamento que será utilizado.
+- Dinâmicas: verificar se as situações possuem dificuldades adequadas e se as instruções permitem compreender claramente o que deve ser feito
+- Slides: verificar legibilidade à distância, tamanho das fontes e contraste
+- Equipamentos: testar notebook, projetor, sistema de áudio e adaptadores
+- Funcionamento offline: confirmar que slides, áudios, e demais materiais podem ser utilizados sem internet
+- Formulários: testar acesso, envio e armazenamento das respostas
+- Avaliação: verificar se as situações inicial e final permitem observar mudanças nas estratégias utilizadas sem depender apenas da percepção subjetiva dos participantes
 
 ## Avaliação
 
 ### Indicadores de Sucesso
 
-> Retome os objetivos do projeto e transforme os resultados esperados da E1 em
-> evidências mais concretas.
->
-> Para cada objetivo relevante, pergunte:
->
-> **O que poderíamos observar se esse objetivo estivesse sendo alcançado?**
->
-> Procure evitar indicadores baseados exclusivamente em satisfação
-> (“os participantes gostaram”). Dependendo do objetivo, pode ser mais
-> interessante observar decisões, respostas, estratégias, explicações,
-> comportamentos ou produções dos participantes.
-
 | Objetivo | Indicador / Evidência |
 | --- | --- |
-| `<Objetivo>` | `<O que poderá ser observado?>` |
-| `<Objetivo>` | `<O que poderá ser observado?>` |
-| `<Objetivo>` | `<O que poderá ser observado?>` |
+| Noção sobre IA | Entender minimamente o que é IA e o que ela pode fazer (de bom e de ruim)  |
+| Conhecimento de que nunca deve ser realizado pagamentos sem confirmações prévias | O grupo alvo não realizaria pagamentos online no primeiro momento em que lhes for pedido. |
+| Identificar pistas suspeitas de golpes e fraudes digitais | O grupo alvo aprender a perceber quando um texto está escrito de forma em que a pessoa que se supõe que é não é o jeito que ela escreve na internet. |
+| Diferenciar golpes de situações reais | O grupo alvo ficar atento quando a mensagem citar algum evento incomum ou atípico de se ocorrer. |
+| Ajudá-los a entender que, hoje, nomes, fotos e áudios pré-gravados não são mais suficientes para legitimar um pedido  | O grupo alvo apenas realizar pagamentos após conversar com a pessoa na vida real. |
+| Estabelecer uma regra principal para realizar transações em dinheiro | O grupo principal cria um código, ou método de segurança que não dependa de informações pessoais facilmente encontradas na internet, para garantir estar conversando com um familiar |
 
 ### Coleta de Evidências e Feedback
 
-> Explique **como e em que momento** as evidências serão coletadas.
->
-> A avaliação pode envolver, por exemplo:
->
-> - respostas a situações ou problemas;
-> - comparação entre atividades realizadas antes e depois da experiência;
-> - observação da atividade;
-> - decisões tomadas durante uma dinâmica;
-> - produções dos participantes;
-> - questionários;
-> - entrevistas ou depoimentos;
-> - feedback do público ou de instituições parceiras.
->
-> Não é obrigatório utilizar questionários ou análises estatísticas. O método
-> escolhido deve ser compatível com os objetivos, o público, o número esperado
-> de participantes e o formato da atividade.
-
-`<Descreva aqui como serão coletadas as evidências e o feedback.>`
+A coleta de evidências ocorrerá ao longo da própria oficina e ao final da atividade. Nas primeiras situações apresentadas, serão registradas as decisões e justificativas dos participantes antes da apresentação das principais estratégias de verificação. Vamos anotar e essas respostas funcionarão como referência inicial.
+Durante as dinâmicas o grupo observará quais sinais são identificados, quais justificativas são utilizadas e quais ações os participantes propõem diante das situações apresentadas.
+No desafio final, será apresentada uma situação mais complexa, construída para exigir a aplicação das respostas observadas no início da atividade, verificando principalmente se os participantes passaram a utilizar estratégias de confirmação antes de agir.
+Ao final, será disponibilizado também um formulário de feedback sobre a experiência, no qual os participantes poderão avaliar as dinâmicas e fornecer críticas e sugestões. Esse formulário será utilizado principalmente para aperfeiçoar a segunda aplicação da oficina, enquanto a avaliação dos objetivos será baseada prioritariamente nas decisões e estratégias observadas durante as atividades.
 
 ## Riscos e Desafios
-
-> Atualize os desafios identificados na E1 considerando agora o planejamento
-> concreto da primeira aplicação.
->
-> Pense em riscos técnicos, logísticos, relacionados ao público, ao cronograma,
-> à acessibilidade ou à própria dinâmica.
->
-> Para os riscos mais relevantes, indique também uma estratégia de prevenção,
-> redução do impacto ou contingência.
 
 | Risco / Desafio | Possível impacto | Estratégia |
 | --- | --- | --- |
 | Não conseguir sala | Caso não seja possível usar uma sala | Podemos ir para um lugar calmo, que possamos passar as informações que gostaríamos e fazer as dinâmicas, sem a sala não seria possível mostrar slides, mas ainda poderíamos transmitir a mensagem que queremos |
 | Não conseguir coffee/chaveiros | Pode não dar certo o coffee ou chaveiros | Por serem "brindes", não são bloqueantes para a realização da oficina, podemos pensar em imprimir certificados para ficar como prêmio |
 | Não conseguir os fascículos | Pode ser que os fascículos não cheguem a tempo | Caso isso aconteça, podemos mostrar o .pdf online e compartilhar o link para o site do Cert.br com os fascículos |
-| Formulário não bater 20 pessoas | Pode ser que poucas pessoas se interessem após a primeira divulgação | Caso isso aconteça, podemos divulgar diretamente com pessoas que nós conhecemos, por e-mail, redes socias, etc. |
+| Formulário não bater 20 pessoas | Pode ser que poucas pessoas se interessem após a primeira divulgação | Caso isso aconteça, podemos divulgar diretamente com pessoas que nós conhecemos, por e-mail, redes sociais, etc. |
+| Falha na reprodução dos áudios | Compromete o momento da plataforma de IA | Testar previamente e manter os arquivos offline em mais de um dispositivo |
+| Falta de internet | Apresentação ficará indisponível | Materiais offline e alternativa impressa |
+| Dinâmicas demorarem mais do que o previsto | Etapas finais podem ser prejudicas | Teste piloto e definição prévia de etapas a serem reduzidas + discussão de estratégias |
+| Dificuldade de leitura e/ou escuta | parte do público pode não acompanhar os materiais | Fontes gran
 
 ## Referências
-
-> Mantenha as referências relevantes da E1 e acrescente novas fontes utilizadas
-> para refinar o conteúdo, compreender o público, desenvolver a experiência ou
-> planejar sua avaliação.
->
-> Para uma introdução ao princípio de decomposição utilizado no planejamento de
-> projetos de engenharia, consulte:
->
-> - NASA. *Work Breakdown Structure (WBS) Handbook*. Disponível em:
->   https://www.nasa.gov/wp-content/uploads/2023/08/nasa-work-breakdown-structure-handbook.pdf
->
-> Não é necessário aplicar formalmente a metodologia apresentada no manual.
-> A referência é disponibilizada para contextualizar a prática de decompor um
-> projeto em entregáveis e unidades de trabalho gerenciáveis.
 
 - Palestra da Miriam Von Zuben, do Cert.br, no dia 10/09/2026 - e os materiais didáticos produzidos pelo Cert e apresentados por ela.
