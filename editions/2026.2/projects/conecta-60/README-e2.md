@@ -198,7 +198,7 @@ Ao final, será disponibilizado também um formulário de feedback sobre a exper
 | Falha na reprodução dos áudios | Compromete o momento da plataforma de IA | Testar previamente e manter os arquivos offline em mais de um dispositivo |
 | Falta de internet | Apresentação ficará indisponível | Materiais offline e alternativa impressa |
 | Dinâmicas demorarem mais do que o previsto | Etapas finais podem ser prejudicadas | Teste piloto e definição prévia de etapas a serem reduzidas + discussão de estratégias |
-| Dificuldade de leitura e/ou escuta | parte do público pode não acompanhar os materiais | Fontes grandes, bom contraste, leitura oral e alta (talvez microfone), além de espalhamento do grupo pela sala para acompanhamento mais focado |
+| Dificuldade de leitura e/ou escuta | Parte do público pode não acompanhar os materiais | Fontes grandes, bom contraste, leitura oral e alta (talvez microfone), além de espalhamento do grupo pela sala para acompanhamento mais focado |
 | Exemplo gerar constrangimento ou medo | Pode reduzir participação | Evitar exposição individual e deixar claro o caráter educativo e simulado das situações |
 
 ## Referências
