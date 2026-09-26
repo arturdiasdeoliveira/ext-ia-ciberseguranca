@@ -107,15 +107,17 @@ Os elementos complementares como coffee break e chaveiros não serão considerad
 | Sala para a oficina | Reservar sala com mesas, cadeiras, projetor, canetas, papel, lousa, etc... | Camila Parizoto | 01/10/2026 | Em desenvolvimento |
 | Coffee | Combinar data, quantidade e opções | Camila Parizoto | 01/10/2026 | Em desenvolvimento |
 | Marcar impressão dos chaveiros | Definir o modelo de chaveiros e combinar a impressão | Camila Parizoto | 01/10/2026 | Definindo qual o modelo de chaveiro escolhido, e em conversas com os responsáveis pela impressão |
-| Chaveiros prontos | Retirar os chaveiros combinados e impressos | Rayssa Aguiar | 09/10/2026 | Depende da marcação da impressão |
 | Slides | Planejar e editar os slides com as informações importantes | Todos | 11/10/2026 | Em desenvolvimento |
 | Apresentação ensaiada | Ensaiar, testar e alterar, se necessário, a apresentação/roteiro da oficina | Todos | 11/10/2026 | Depende dos slides |
-| Desenvolver post de divulgação | Desenvolver um post chamativo para atrair participantes para a oficina via rede social | Luana Oliveira | 09/10/2026 | Em desenvolvimento |
-| Divulgar a oficina | Enviar e-mail apresentando a oficina e chamando as pessoas | Rayssa Aguiar | 09/10/2026 | Após ter o post criado |
+| Chaveiros prontos | Retirar os chaveiros combinados e impressos | Rayssa Aguiar | 09/10/2026 | Depende da marcação da impressão |
+| Desenvolver post/arte de divulgação | Desenvolver um post chamativo para atrair participantes para a oficina via rede social | Luana Oliveira | 09/10/2026 | Em desenvolvimento |
+| Divulgação do post | Enviar e-mail apresentando a oficina e chamando as pessoas | Luana Oliveira | 09/10/2026 | Após ter o post criado |
+| Divulgação da oficina na extensão de idosos | Enviar e-mail apresentando a oficina e chamando as pessoas | Rayssa Aguiar | 09/10/2026 | Após ter o post criado |
 | Abrir o formulário de inscrições | Abrir o formulário para as 20 pessoas se inscreverem | Artur Dias | 09/10/2026 | Formulário está pronto, vai ser aberto após a divulgação |
 | Criar grupo de Whatsapp | Criar grupo no Whatsapp com aqueles que concordaram em ser envolvidos no grupo | Tiago Gutiérrez | 09/10/2026 | A ser criado após as inscrições |
 | Lembrete sobre a oficina | Lembrar as pessoas sobre a realização da oficina pelo Whatsapp ou e-mail | Tiago Gutiérrez | 12/10/2026 - 15/10/2026 | A ser enviado após as inscrições |
 | Formulário de feedback sobre a oficina | Disponibilizar um formulário para coletar feedbacks, críticas, opiniões e sugestões sobre a primeira oficina | Tiago Gutiérrez | 15/10/2026 | Em desenvolvimento |
+
 
 ### Dependências Críticas
 
