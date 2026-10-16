@@ -95,7 +95,7 @@ Já aplicamos a oficina, no dia 16/10/2026. Conseguimos reservar a sala para a a
 
 **Resultado da aplicação:**
 A oficina foi muito bem recebida pelos participantes: todos elogiaram, acharam a atividade divertida e comentaram que aprenderam bastante. Tivemos, porém, um problema com o tempo: gostaríamos de ter terminado às 11h, mas acabamos terminando às 12h15.
-Outro feedback que já surgiu foi sobre o tamanho dos textos nos slides: especialmente nas situações das dinâmicas, o template ocupava muito espaço da apresentação as letras ficaram pequenas.
+Outro feedback que já surgiu foi sobre o tamanho dos textos nos slides: especialmente nas situações das dinâmicas, o template ocupava muito espaço da apresentação e as letras ficaram pequenas.
 
 ### Alternativas e Contingências
 
