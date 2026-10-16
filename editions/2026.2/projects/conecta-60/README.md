@@ -208,3 +208,5 @@ Ao final, será disponibilizado também um formulário de feedback sobre a exper
 ## Referências
 
 - Palestra da Miriam Von Zuben, do Cert.br, no dia 10/09/2026 - e os materiais didáticos produzidos pelo Cert e apresentados por ela.
+- Apresentação no Canva: https://canva.link/j975c88bkifky3s
+- Formulário de inscrição: https://docs.google.com/forms/d/e/1FAIpQLSf71PiAd8UxlSZIoCimR9WWqRTmJITDZYlplbkAm_oaUatTvQ/viewform?usp=sharing&ouid=112996531704576890861
