@@ -64,3 +64,4 @@ Como dificuldades operacionais, destacaram-se:
 
 - Palestra da Miriam Von Zuben, do Cert.br, no dia 10/09/2026 - e os materiais didáticos produzidos pelo Cert e apresentados por ela.
 - Materiais produzidos: https://drive.google.com/drive/folders/1jCkI3gVlXxO1tKzW7kfrkjYpgMGVQNS2?usp=sharing
+- Vídeo da primeira oficina: https://youtu.be/565nvjZvP5s
